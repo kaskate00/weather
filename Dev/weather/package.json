@@ -1,0 +1,18 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "App for your weather",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaksate00/weather.git"
+  },
+  "keywords": ["weather"],
+  "author": "Kate Kasperovich",
+  "license": "ISC"
+}
